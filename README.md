@@ -14,7 +14,8 @@ This was built with the intention of being used with Webex Contact Center Agent 
 
 Simply include the `app-button` tag in your HTML. The default text for the button is "Button A", but it can be overridden by providing content in the `app-button` tag.
 
-For Agent Desktop usage please include this file in the administrator portal for Webex Contact Center : 
+For Agent Desktop usage please include this file in the administrator portal for Webex Contact Center : Desktop Layout Header Button.json
+
 Example:
 
 ```html
