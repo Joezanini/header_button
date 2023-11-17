@@ -8,7 +8,8 @@ This code is a simple implementation of a custom web component, `app-button`, us
 
 This custom component, `app-button`, when used in your HTML, creates a button styled with some CSS.
 
-This was built with the intention of being used with Webex Contact Center Agent Desktop.
+This was built with the intention of being used with Webex Contact Center Agent Desktop. For this purpose, the bundle is hosted on CDN at 
+https://cdn.jsdelivr.net/gh/Joezanini/header_button/dist/bundle.js
 
 ### How to use
 
